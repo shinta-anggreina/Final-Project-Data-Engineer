@@ -1,6 +1,6 @@
-# 📊 Final Project - Data Engineering
+# 📊 Final Project - Data Analysis  
 
-Proyek ini merupakan tugas akhir kelompok dalam menganalisis data menggunakan SQL berbasis database. Fokus utama proyek ini adalah mengembangkan database yang efisien serta menyusun query SQL untuk menjawab pertanyaan bisnis.  
+Proyek ini merupakan tugas akhir kelompok dalam menganalisis data menggunakan SQL dan visualisasi berbasis database. Fokus utama proyek ini adalah mengembangkan database yang efisien serta menyusun query SQL untuk menjawab pertanyaan bisnis.  
 
 ## 📌 Tujuan Proyek  
 ✅ Mendesain database sesuai kebutuhan bisnis  
@@ -13,6 +13,12 @@ Proyek ini merupakan tugas akhir kelompok dalam menganalisis data menggunakan SQ
 
 ## 📊 Tools & Teknologi  
 - **SQL Server** → Untuk pengelolaan database  
+- **Power BI / Excel** → Untuk analisis dan visualisasi data  
+
+## 🚀 Hasil Analisis  
+1. **Optimasi Database** → Desain tabel dan relasi  
+2. **Analisis Data** → Query SQL untuk menjawab pertanyaan bisnis  
+3. **Visualisasi Data** → Representasi hasil analisis  
 
 ## 🖥 Contoh Query SQL  
 ```sql
